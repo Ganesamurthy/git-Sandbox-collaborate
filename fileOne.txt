@@ -1,1 +1,2 @@
 This is the first file for commit..!
+Modifying file for merge changes.
